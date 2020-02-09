@@ -1,2 +1,2 @@
 project-name: node-express-realworld-example-app
-stack: docker.io/kabanero/nodejs-express:0.2
+stack: docker.io/kabanero/nodejs-express:latest
