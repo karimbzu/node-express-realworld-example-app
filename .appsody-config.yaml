@@ -1,2 +1,2 @@
 project-name: node-express-realworld-example-app
-stack: docker.io/appsody/nodejs:0.3
+stack: docker.io/appsody/nodejs-express
